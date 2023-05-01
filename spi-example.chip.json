@@ -1,0 +1,14 @@
+{
+  "name": "SPI Example",
+  "author": "Uri Shaked",
+  "pins": [
+    "SCK",
+    "MISO",
+    "MOSI",
+    "CS",
+    "GND",
+    "VCC",
+    "",
+    ""
+  ]
+}
